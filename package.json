@@ -1,5 +1,5 @@
 {
-  "name": "easymoney",
+  "name": "@nkaisehq/currency",
   "version": "0.0.22",
   "author": "Whispers12",
   "sideEffects": false,
